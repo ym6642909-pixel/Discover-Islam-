@@ -1,0 +1,58 @@
+{
+  "wudu": {
+    "ar": "وضوء",
+    "es": "wudu",
+    "en": "wudu",
+    "fr": "wudu",
+    "ru": "вуду",
+    "transliteration": "wuḍūʾ"
+  },
+  "salat": {
+    "ar": "صلاة",
+    "es": "ṣalāh / oración",
+    "en": "ṣalāh / prayer",
+    "fr": "ṣalāh / prière",
+    "ru": "салят / молитва",
+    "transliteration": "ṣalāh"
+  },
+  "zakat": {
+    "ar": "زكاة",
+    "es": "zakāt",
+    "en": "zakāt",
+    "fr": "zakāt",
+    "ru": "закят",
+    "transliteration": "zakāh"
+  },
+  "sawm": {
+    "ar": "صيام",
+    "es": "ṣawm / ayuno",
+    "en": "ṣawm / fasting",
+    "fr": "ṣawm / jeûne",
+    "ru": "саум / пост",
+    "transliteration": "ṣawm"
+  },
+  "hajj": {
+    "ar": "حج",
+    "es": "ḥajj / peregrinación",
+    "en": "ḥajj / pilgrimage",
+    "fr": "ḥajj / pèlerinage",
+    "ru": "хадж / паломничество",
+    "transliteration": "ḥajj"
+  },
+  "iman": {
+    "ar": "إيمان",
+    "es": "īmān / fe",
+    "en": "īmān / faith",
+    "fr": "īmān / foi",
+    "ru": "иман / вера",
+    "transliteration": "īmān"
+  },
+  "islam": {
+    "ar": "إسلام",
+    "es": "islām / islam",
+    "en": "islām / Islam",
+    "fr": "islām / islam",
+    "ru": "ислам",
+    "transliteration": "islām"
+  }
+}

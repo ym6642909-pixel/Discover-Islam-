@@ -1,0 +1,691 @@
+{
+  "version": "1.0",
+  "count": 114,
+  "chapters": [
+    {
+      "id": 1,
+      "arabic_name": "الفاتحة",
+      "url": "https://quran.com/1",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 2,
+      "arabic_name": "البقرة",
+      "url": "https://quran.com/2",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 3,
+      "arabic_name": "آل عمران",
+      "url": "https://quran.com/3",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 4,
+      "arabic_name": "النساء",
+      "url": "https://quran.com/4",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 5,
+      "arabic_name": "المائدة",
+      "url": "https://quran.com/5",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 6,
+      "arabic_name": "الأنعام",
+      "url": "https://quran.com/6",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 7,
+      "arabic_name": "الأعراف",
+      "url": "https://quran.com/7",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 8,
+      "arabic_name": "الأنفال",
+      "url": "https://quran.com/8",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 9,
+      "arabic_name": "التوبة",
+      "url": "https://quran.com/9",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 10,
+      "arabic_name": "يونس",
+      "url": "https://quran.com/10",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 11,
+      "arabic_name": "هود",
+      "url": "https://quran.com/11",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 12,
+      "arabic_name": "يوسف",
+      "url": "https://quran.com/12",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 13,
+      "arabic_name": "الرعد",
+      "url": "https://quran.com/13",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 14,
+      "arabic_name": "إبراهيم",
+      "url": "https://quran.com/14",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 15,
+      "arabic_name": "الحجر",
+      "url": "https://quran.com/15",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 16,
+      "arabic_name": "النحل",
+      "url": "https://quran.com/16",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 17,
+      "arabic_name": "الإسراء",
+      "url": "https://quran.com/17",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 18,
+      "arabic_name": "الكهف",
+      "url": "https://quran.com/18",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 19,
+      "arabic_name": "مريم",
+      "url": "https://quran.com/19",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 20,
+      "arabic_name": "طه",
+      "url": "https://quran.com/20",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 21,
+      "arabic_name": "الأنبياء",
+      "url": "https://quran.com/21",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 22,
+      "arabic_name": "الحج",
+      "url": "https://quran.com/22",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 23,
+      "arabic_name": "المؤمنون",
+      "url": "https://quran.com/23",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 24,
+      "arabic_name": "النور",
+      "url": "https://quran.com/24",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 25,
+      "arabic_name": "الفرقان",
+      "url": "https://quran.com/25",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 26,
+      "arabic_name": "الشعراء",
+      "url": "https://quran.com/26",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 27,
+      "arabic_name": "النمل",
+      "url": "https://quran.com/27",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 28,
+      "arabic_name": "القصص",
+      "url": "https://quran.com/28",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 29,
+      "arabic_name": "العنكبوت",
+      "url": "https://quran.com/29",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 30,
+      "arabic_name": "الروم",
+      "url": "https://quran.com/30",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 31,
+      "arabic_name": "لقمان",
+      "url": "https://quran.com/31",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 32,
+      "arabic_name": "السجدة",
+      "url": "https://quran.com/32",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 33,
+      "arabic_name": "الأحزاب",
+      "url": "https://quran.com/33",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 34,
+      "arabic_name": "سبأ",
+      "url": "https://quran.com/34",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 35,
+      "arabic_name": "فاطر",
+      "url": "https://quran.com/35",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 36,
+      "arabic_name": "يس",
+      "url": "https://quran.com/36",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 37,
+      "arabic_name": "الصافات",
+      "url": "https://quran.com/37",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 38,
+      "arabic_name": "ص",
+      "url": "https://quran.com/38",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 39,
+      "arabic_name": "الزمر",
+      "url": "https://quran.com/39",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 40,
+      "arabic_name": "غافر",
+      "url": "https://quran.com/40",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 41,
+      "arabic_name": "فصلت",
+      "url": "https://quran.com/41",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 42,
+      "arabic_name": "الشورى",
+      "url": "https://quran.com/42",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 43,
+      "arabic_name": "الزخرف",
+      "url": "https://quran.com/43",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 44,
+      "arabic_name": "الدخان",
+      "url": "https://quran.com/44",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 45,
+      "arabic_name": "الجاثية",
+      "url": "https://quran.com/45",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 46,
+      "arabic_name": "الأحقاف",
+      "url": "https://quran.com/46",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 47,
+      "arabic_name": "محمد",
+      "url": "https://quran.com/47",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 48,
+      "arabic_name": "الفتح",
+      "url": "https://quran.com/48",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 49,
+      "arabic_name": "الحجرات",
+      "url": "https://quran.com/49",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 50,
+      "arabic_name": "ق",
+      "url": "https://quran.com/50",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 51,
+      "arabic_name": "الذاريات",
+      "url": "https://quran.com/51",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 52,
+      "arabic_name": "الطور",
+      "url": "https://quran.com/52",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 53,
+      "arabic_name": "النجم",
+      "url": "https://quran.com/53",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 54,
+      "arabic_name": "القمر",
+      "url": "https://quran.com/54",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 55,
+      "arabic_name": "الرحمن",
+      "url": "https://quran.com/55",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 56,
+      "arabic_name": "الواقعة",
+      "url": "https://quran.com/56",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 57,
+      "arabic_name": "الحديد",
+      "url": "https://quran.com/57",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 58,
+      "arabic_name": "المجادلة",
+      "url": "https://quran.com/58",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 59,
+      "arabic_name": "الحشر",
+      "url": "https://quran.com/59",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 60,
+      "arabic_name": "الممتحنة",
+      "url": "https://quran.com/60",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 61,
+      "arabic_name": "الصف",
+      "url": "https://quran.com/61",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 62,
+      "arabic_name": "الجمعة",
+      "url": "https://quran.com/62",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 63,
+      "arabic_name": "المنافقون",
+      "url": "https://quran.com/63",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 64,
+      "arabic_name": "التغابن",
+      "url": "https://quran.com/64",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 65,
+      "arabic_name": "الطلاق",
+      "url": "https://quran.com/65",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 66,
+      "arabic_name": "التحريم",
+      "url": "https://quran.com/66",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 67,
+      "arabic_name": "الملك",
+      "url": "https://quran.com/67",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 68,
+      "arabic_name": "القلم",
+      "url": "https://quran.com/68",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 69,
+      "arabic_name": "الحاقة",
+      "url": "https://quran.com/69",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 70,
+      "arabic_name": "المعارج",
+      "url": "https://quran.com/70",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 71,
+      "arabic_name": "نوح",
+      "url": "https://quran.com/71",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 72,
+      "arabic_name": "الجن",
+      "url": "https://quran.com/72",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 73,
+      "arabic_name": "المزمل",
+      "url": "https://quran.com/73",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 74,
+      "arabic_name": "المدثر",
+      "url": "https://quran.com/74",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 75,
+      "arabic_name": "القيامة",
+      "url": "https://quran.com/75",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 76,
+      "arabic_name": "الإنسان",
+      "url": "https://quran.com/76",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 77,
+      "arabic_name": "المرسلات",
+      "url": "https://quran.com/77",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 78,
+      "arabic_name": "النبأ",
+      "url": "https://quran.com/78",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 79,
+      "arabic_name": "النازعات",
+      "url": "https://quran.com/79",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 80,
+      "arabic_name": "عبس",
+      "url": "https://quran.com/80",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 81,
+      "arabic_name": "التكوير",
+      "url": "https://quran.com/81",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 82,
+      "arabic_name": "الانفطار",
+      "url": "https://quran.com/82",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 83,
+      "arabic_name": "المطففين",
+      "url": "https://quran.com/83",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 84,
+      "arabic_name": "الانشقاق",
+      "url": "https://quran.com/84",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 85,
+      "arabic_name": "البروج",
+      "url": "https://quran.com/85",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 86,
+      "arabic_name": "الطارق",
+      "url": "https://quran.com/86",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 87,
+      "arabic_name": "الأعلى",
+      "url": "https://quran.com/87",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 88,
+      "arabic_name": "الغاشية",
+      "url": "https://quran.com/88",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 89,
+      "arabic_name": "الفجر",
+      "url": "https://quran.com/89",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 90,
+      "arabic_name": "البلد",
+      "url": "https://quran.com/90",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 91,
+      "arabic_name": "الشمس",
+      "url": "https://quran.com/91",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 92,
+      "arabic_name": "الليل",
+      "url": "https://quran.com/92",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 93,
+      "arabic_name": "الضحى",
+      "url": "https://quran.com/93",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 94,
+      "arabic_name": "الشرح",
+      "url": "https://quran.com/94",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 95,
+      "arabic_name": "التين",
+      "url": "https://quran.com/95",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 96,
+      "arabic_name": "العلق",
+      "url": "https://quran.com/96",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 97,
+      "arabic_name": "القدر",
+      "url": "https://quran.com/97",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 98,
+      "arabic_name": "البينة",
+      "url": "https://quran.com/98",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 99,
+      "arabic_name": "الزلزلة",
+      "url": "https://quran.com/99",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 100,
+      "arabic_name": "العاديات",
+      "url": "https://quran.com/100",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 101,
+      "arabic_name": "القارعة",
+      "url": "https://quran.com/101",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 102,
+      "arabic_name": "التكاثر",
+      "url": "https://quran.com/102",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 103,
+      "arabic_name": "العصر",
+      "url": "https://quran.com/103",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 104,
+      "arabic_name": "الهمزة",
+      "url": "https://quran.com/104",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 105,
+      "arabic_name": "الفيل",
+      "url": "https://quran.com/105",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 106,
+      "arabic_name": "قريش",
+      "url": "https://quran.com/106",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 107,
+      "arabic_name": "الماعون",
+      "url": "https://quran.com/107",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 108,
+      "arabic_name": "الكوثر",
+      "url": "https://quran.com/108",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 109,
+      "arabic_name": "الكافرون",
+      "url": "https://quran.com/109",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 110,
+      "arabic_name": "النصر",
+      "url": "https://quran.com/110",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 111,
+      "arabic_name": "المسد",
+      "url": "https://quran.com/111",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 112,
+      "arabic_name": "الإخلاص",
+      "url": "https://quran.com/112",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 113,
+      "arabic_name": "الفلق",
+      "url": "https://quran.com/113",
+      "data_status": "external-source-pending-licensed-data"
+    },
+    {
+      "id": 114,
+      "arabic_name": "الناس",
+      "url": "https://quran.com/114",
+      "data_status": "external-source-pending-licensed-data"
+    }
+  ],
+  "note": "Do not place Quran Foundation client secrets in frontend code. Populate verse text, licensed translations, tafsir and audio through an authorized data layer."
+}

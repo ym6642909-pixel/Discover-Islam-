@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "schema_version": "1.0.0",
+    "language": "ar",
+    "direction": "rtl",
+    "source_language": "ar",
+    "review_status": "draft",
+    "review_required": true
+  },
+  "site": {
+    "name": "اكتشف الإسلام",
+    "home": "تعرّف إلى الإسلام خطوةً خطوة",
+    "intro": "مدخل مبسّط إلى العقيدة والعبادة والأخلاق، مع مصطلحات عربية ومصادر قابلة للتحقق.",
+    "notice": "نسخة تعليمية أولية تحتاج مراجعة لغوية وشرعية قبل النشر النهائي."
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "islam": "ما الإسلام؟",
+    "iman": "الإيمان",
+    "pillars": "أركان الإسلام",
+    "wudu": "الطهارة والوضوء",
+    "salat": "الصلاة",
+    "quran": "القرآن الكريم",
+    "ethics": "أخلاق الإسلام",
+    "faq": "الأسئلة الشائعة",
+    "convert": "كيف أدخل في الإسلام؟",
+    "contact": "تواصل",
+    "sources": "المصادر"
+  },
+  "lessons": {
+    "islam": {
+      "title": "ما الإسلام؟",
+      "summary": "الإسلام دين التوحيد، والإيمان بالله تعالى ورسله وكتبه واليوم الآخر والقدر، مع عبادة الله والعمل الصالح,"
+    },
+    "iman": {
+      "title": "أركان الإيمان",
+      "items": [
+        "الإيمان بالله",
+        "وملائكته",
+        "وكتبه",
+        "ورسله",
+        "واليوم الآخر",
+        "والقدر خيره وشره"
+      ]
+    },
+    "pillars": {
+      "title": "أركان الإسلام الخمسة",
+      "items": [
+        "الشهادتان",
+        "إقامة الصلاة",
+        "إيتاء الزكاة",
+        "صيام رمضان",
+        "حج البيت لمن استطاع إليه سبيلًا"
+      ]
+    },
+    "wudu": {
+      "title": "الطهارة والوضوء",
+      "intro": "عرض تعليمي مع بيان مواضع الاختلاف الفقهي عند الحاجة."
+    },
+    "salat": {
+      "title": "الصلاة",
+      "intro": "عبادة يومية لها أوقات وأركان وهيئات وأذكار، وفي بعض تفاصيلها خلاف فقهي معتبر."
+    },
+    "ethics": {
+      "title": "أخلاق الإسلام",
+      "items": [
+        "الصدق",
+        "الأمانة",
+        "الرحمة",
+        "العدل",
+        "الإحسان"
+      ]
+    }
+  },
+  "faq": [
+    {
+      "q": "هل «Allah» إله مختلف عن «Dios»؟",
+      "a": "«الله» علَمٌ على الذات الإلهية، والاختلاف بين اللفظ العربي وغيره لا يعني وجود إله آخر."
+    },
+    {
+      "q": "هل تختلف الأحكام الفقهية بين المذاهب؟",
+      "a": "نعم، توجد مسائل وقع فيها اختلاف معتبر بين المذاهب الأربعة، ولذلك يجب نسبة كل قول إلى مصدره ومذهبه."
+    }
+  ],
+  "conversion": {
+    "title": "كيف أدخل في الإسلام؟",
+    "intro": "يقوم الدخول في الإسلام على الإقرار بالشهادتين عن إيمان وقصد، مع فهم معناهما والبدء في تعلم ما يلزم المسلم.",
+    "note": "لا يجعل الموقع الدخول في الإسلام اختبارًا إلكترونيًا."
+  },
+  "contact": {
+    "title": "تواصل",
+    "text": "تُضاف وسيلة التواصل الرسمية بعد تحديد الجهة المشرفة."
+  },
+  "sources": [
+    {
+      "id": "azhar_aqida",
+      "name": "Al-Azhar — العقيدة وبناء الإنسان",
+      "url": "https://azhar.eg/scholars-tarajum/books/2023/4-%20%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9%20%D9%88%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_iman",
+      "name": "Al-Azhar — الإيمان بالكتب وأثره في سلوك الفرد والمجتمع",
+      "url": "https://azhar.eg/observer/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA/ArtMID/16135/ArticleID/92563",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_bukhari",
+      "name": "Al-Azhar — صفوة صحيح البخاري",
+      "url": "https://azhar.eg/scholars-tarajum/books/2019/%D8%B5%D9%81%D9%88%D8%A9%20%D8%B5%D8%AD%D9%8A%D8%AD%201.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "dar_ift",
+      "name": "Dar al-Ifta Egypt — حكم التقليد والتلفيق بين المذاهب الفقهية الأربعة",
+      "url": "https://www.dar-alifta.org/ar/fatwa/details/19043",
+      "kind": "institutional"
+    },
+    {
+      "id": "quran_api",
+      "name": "Quran Foundation — Content API",
+      "url": "https://api-docs.quran.com/docs/api-reference/",
+      "kind": "technical"
+    }
+  ],
+  "quality": {
+    "must_pass_before_publish": [
+      "Arabic source reviewed by qualified Islamic-studies reviewer",
+      "Each translation reviewed by a native speaker",
+      "Terminology checked against the shared glossary",
+      "Quran translation/tafsir license or authorization verified",
+      "Madhhab differences attributed when relevant",
+      "No automatic translation used as final copy",
+      "Accessibility and mobile tests pass",
+      "All external links/audio sources tested"
+    ]
+  }
+}

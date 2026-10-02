@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "schema_version": "1.0.0",
+    "language": "en",
+    "direction": "ltr",
+    "source_language": "ar",
+    "review_status": "draft",
+    "review_required": true
+  },
+  "site": {
+    "name": "Discover Islam",
+    "home": "Learn about Islam step by step",
+    "intro": "A clear introduction to Islamic faith, practice and ethics, with explained Arabic terms and traceable sources.",
+    "notice": "Educational draft: native-speaker and Islamic-studies review is required before publication."
+  },
+  "nav": {
+    "home": "Home",
+    "islam": "What is Islam?",
+    "iman": "Faith",
+    "pillars": "Five Pillars",
+    "wudu": "Purification & Wudu",
+    "salat": "Prayer",
+    "quran": "The Qur’an",
+    "ethics": "Islamic ethics",
+    "faq": "FAQ",
+    "convert": "How to become Muslim",
+    "contact": "Contact",
+    "sources": "Sources"
+  },
+  "lessons": {
+    "islam": {
+      "title": "What is Islam?",
+      "summary": "Islam is a religion of monotheism: belief in God, His messengers and books, the Last Day and divine decree, together with worship and righteous action."
+    },
+    "iman": {
+      "title": "Articles of faith",
+      "items": [
+        "Belief in God",
+        "His angels",
+        "His books",
+        "His messengers",
+        "The Last Day",
+        "Divine decree"
+      ]
+    },
+    "pillars": {
+      "title": "Five pillars",
+      "items": [
+        "The two testimonies of faith",
+        "Establishing prayer",
+        "Giving zakat",
+        "Fasting Ramadan",
+        "Pilgrimage to the Sacred House for whoever is able"
+      ]
+    },
+    "wudu": {
+      "title": "Purification and wudu",
+      "intro": "Educational presentation; some legal details differ among the schools."
+    },
+    "salat": {
+      "title": "Prayer",
+      "intro": "Daily worship with appointed times, essential elements, postures and recitations; some details have recognized legal differences."
+    },
+    "ethics": {
+      "title": "Islamic ethics",
+      "items": [
+        "Truthfulness",
+        "Trustworthiness",
+        "Mercy",
+        "Justice",
+        "Excellence in doing good"
+      ]
+    }
+  },
+  "faq": [
+    {
+      "q": "Is “Allah” a different deity from “God”?",
+      "a": "“Allah” is the Arabic proper name used in the Qur’an for God. A difference of language does not imply a different deity."
+    },
+    {
+      "q": "Do the legal schools differ?",
+      "a": "Yes. Some questions have recognized differences among the four schools and should be attributed to their source."
+    }
+  ],
+  "conversion": {
+    "title": "How to become Muslim",
+    "intro": "Becoming Muslim involves affirming the two testimonies of faith with conviction and intention, understanding their meaning, and beginning to learn what is required.",
+    "note": "The site does not turn becoming Muslim into an online test."
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "Add the official contact method after defining the responsible organization."
+  },
+  "sources": [
+    {
+      "id": "azhar_aqida",
+      "name": "Al-Azhar — العقيدة وبناء الإنسان",
+      "url": "https://azhar.eg/scholars-tarajum/books/2023/4-%20%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9%20%D9%88%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_iman",
+      "name": "Al-Azhar — الإيمان بالكتب وأثره في سلوك الفرد والمجتمع",
+      "url": "https://azhar.eg/observer/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA/ArtMID/16135/ArticleID/92563",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_bukhari",
+      "name": "Al-Azhar — صفوة صحيح البخاري",
+      "url": "https://azhar.eg/scholars-tarajum/books/2019/%D8%B5%D9%81%D9%88%D8%A9%20%D8%B5%D8%AD%D9%8A%D8%AD%201.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "dar_ift",
+      "name": "Dar al-Ifta Egypt — حكم التقليد والتلفيق بين المذاهب الفقهية الأربعة",
+      "url": "https://www.dar-alifta.org/ar/fatwa/details/19043",
+      "kind": "institutional"
+    },
+    {
+      "id": "quran_api",
+      "name": "Quran Foundation — Content API",
+      "url": "https://api-docs.quran.com/docs/api-reference/",
+      "kind": "technical"
+    }
+  ],
+  "quality": {
+    "must_pass_before_publish": [
+      "Arabic source reviewed by qualified Islamic-studies reviewer",
+      "Each translation reviewed by a native speaker",
+      "Terminology checked against the shared glossary",
+      "Quran translation/tafsir license or authorization verified",
+      "Madhhab differences attributed when relevant",
+      "No automatic translation used as final copy",
+      "Accessibility and mobile tests pass",
+      "All external links/audio sources tested"
+    ]
+  }
+}

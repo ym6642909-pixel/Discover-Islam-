@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "schema_version": "1.0.0",
+    "language": "ru",
+    "direction": "ltr",
+    "source_language": "ar",
+    "review_status": "draft",
+    "review_required": true
+  },
+  "site": {
+    "name": "Узнайте об исламе",
+    "home": "Познакомьтесь с исламом шаг за шагом",
+    "intro": "Понятное введение в исламскую веру, поклонение и нравственность с объяснением арабских терминов и проверяемыми источниками.",
+    "notice": "Учебная черновая версия: перед публикацией требуется проверка носителем языка и специалистом по исламским наукам."
+  },
+  "nav": {
+    "home": "Главная",
+    "islam": "Что такое ислам?",
+    "iman": "Вера",
+    "pillars": "Пять столпов",
+    "wudu": "Очищение и вуду",
+    "salat": "Молитва",
+    "quran": "Коран",
+    "ethics": "Исламская этика",
+    "faq": "Частые вопросы",
+    "convert": "Как принять ислам",
+    "contact": "Контакты",
+    "sources": "Источники"
+  },
+  "lessons": {
+    "islam": {
+      "title": "Что такое ислам?",
+      "summary": "Ислам — религия единобожия: вера в Бога, Его посланников и Писания, Судный день и предопределение, поклонение и праведные дела."
+    },
+    "iman": {
+      "title": "Столпы веры",
+      "items": [
+        "Вера в Бога",
+        "Его ангелы",
+        "Его Писания",
+        "Его посланники",
+        "Судный день",
+        "Божественное предопределение"
+      ]
+    },
+    "pillars": {
+      "title": "Пять столпов",
+      "items": [
+        "Два свидетельства веры",
+        "Совершение молитвы",
+        "Выплата закята",
+        "Пост в Рамадан",
+        "Паломничество для способного его совершить"
+      ]
+    },
+    "wudu": {
+      "title": "Очищение и вуду",
+      "intro": "Учебное изложение; некоторые правовые детали различаются между школами."
+    },
+    "salat": {
+      "title": "Молитва",
+      "intro": "Ежедневное поклонение с установленными временами, обязательными элементами, положениями тела и чтениями; по некоторым деталям существуют признанные различия."
+    },
+    "ethics": {
+      "title": "Исламская этика",
+      "items": [
+        "Правдивость",
+        "Надёжность",
+        "Милосердие",
+        "Справедливость",
+        "Совершенство в добре"
+      ]
+    }
+  },
+  "faq": [
+    {
+      "q": "«Аллах» — это другое божество, отличное от «Бога»?",
+      "a": "«Аллах» — арабское имя собственное, употребляемое в Коране для обозначения Бога. Различие языков не означает другое божество."
+    },
+    {
+      "q": "Различаются ли правовые школы?",
+      "a": "Да. По некоторым вопросам существуют признанные различия между четырьмя мазхабами; их следует связывать с конкретным источником."
+    }
+  ],
+  "conversion": {
+    "title": "Как принять ислам",
+    "intro": "Принятие ислама связано с произнесением двух свидетельств веры с убеждением и намерением, пониманием их смысла и началом изучения необходимого.",
+    "note": "Сайт не превращает принятие ислама в онлайн-экзамен."
+  },
+  "contact": {
+    "title": "Контакты",
+    "text": "Добавьте официальный способ связи после определения ответственной организации."
+  },
+  "sources": [
+    {
+      "id": "azhar_aqida",
+      "name": "Al-Azhar — العقيدة وبناء الإنسان",
+      "url": "https://azhar.eg/scholars-tarajum/books/2023/4-%20%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9%20%D9%88%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_iman",
+      "name": "Al-Azhar — الإيمان بالكتب وأثره في سلوك الفرد والمجتمع",
+      "url": "https://azhar.eg/observer/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA/ArtMID/16135/ArticleID/92563",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_bukhari",
+      "name": "Al-Azhar — صفوة صحيح البخاري",
+      "url": "https://azhar.eg/scholars-tarajum/books/2019/%D8%B5%D9%81%D9%88%D8%A9%20%D8%B5%D8%AD%D9%8A%D8%AD%201.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "dar_ift",
+      "name": "Dar al-Ifta Egypt — حكم التقليد والتلفيق بين المذاهب الفقهية الأربعة",
+      "url": "https://www.dar-alifta.org/ar/fatwa/details/19043",
+      "kind": "institutional"
+    },
+    {
+      "id": "quran_api",
+      "name": "Quran Foundation — Content API",
+      "url": "https://api-docs.quran.com/docs/api-reference/",
+      "kind": "technical"
+    }
+  ],
+  "quality": {
+    "must_pass_before_publish": [
+      "Arabic source reviewed by qualified Islamic-studies reviewer",
+      "Each translation reviewed by a native speaker",
+      "Terminology checked against the shared glossary",
+      "Quran translation/tafsir license or authorization verified",
+      "Madhhab differences attributed when relevant",
+      "No automatic translation used as final copy",
+      "Accessibility and mobile tests pass",
+      "All external links/audio sources tested"
+    ]
+  }
+}

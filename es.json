@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "schema_version": "1.0.0",
+    "language": "es",
+    "direction": "ltr",
+    "source_language": "ar",
+    "review_status": "draft",
+    "review_required": true
+  },
+  "site": {
+    "name": "Descubre el Islam",
+    "home": "Conoce el islam paso a paso",
+    "intro": "Una introducción clara a la fe, la práctica y la ética islámicas, con términos árabes explicados y fuentes verificables.",
+    "notice": "Versión educativa inicial: requiere revisión de un hablante nativo y de un especialista islámico antes de su publicación."
+  },
+  "nav": {
+    "home": "Inicio",
+    "islam": "¿Qué es el islam?",
+    "iman": "La fe",
+    "pillars": "Los cinco pilares",
+    "wudu": "Purificación y wudu",
+    "salat": "La oración",
+    "quran": "El Corán",
+    "ethics": "Ética islámica",
+    "faq": "Preguntas frecuentes",
+    "convert": "¿Cómo entrar en el islam?",
+    "contact": "Contacto",
+    "sources": "Fuentes"
+  },
+  "lessons": {
+    "islam": {
+      "title": "¿Qué es el islam?",
+      "summary": "El islam es una religión de monoteísmo: creer en Dios, Sus mensajeros y libros, el Último Día y el decreto divino, junto con la adoración y las buenas obras."
+    },
+    "iman": {
+      "title": "Los artículos de la fe",
+      "items": [
+        "Creer en Dios",
+        "Sus ángeles",
+        "Sus libros",
+        "Sus mensajeros",
+        "El Último Día",
+        "El decreto divino"
+      ]
+    },
+    "pillars": {
+      "title": "Los cinco pilares",
+      "items": [
+        "Los dos testimonios de fe",
+        "Establecer la oración",
+        "Dar la zakat",
+        "Ayunar en Ramadán",
+        "Peregrinar a la Casa Sagrada para quien puede"
+      ]
+    },
+    "wudu": {
+      "title": "Purificación y wudu",
+      "intro": "Presentación educativa; algunos detalles jurídicos difieren entre las escuelas."
+    },
+    "salat": {
+      "title": "La oración",
+      "intro": "Acto diario de culto con tiempos, elementos, posturas y recitaciones; algunos detalles tienen diferencias jurídicas reconocidas."
+    },
+    "ethics": {
+      "title": "Ética islámica",
+      "items": [
+        "Sinceridad",
+        "Honestidad",
+        "Misericordia",
+        "Justicia",
+        "Excelencia en el bien"
+      ]
+    }
+  },
+  "faq": [
+    {
+      "q": "¿Es «Allah» una divinidad diferente de «Dios»?",
+      "a": "«Allah» es el nombre propio árabe usado en el Corán para referirse a Dios. La diferencia de lengua no implica un dios diferente."
+    },
+    {
+      "q": "¿Difieren las escuelas jurídicas?",
+      "a": "Sí. Algunas cuestiones presentan diferencias reconocidas entre las cuatro escuelas y deben atribuirse a su fuente."
+    }
+  ],
+  "conversion": {
+    "title": "¿Cómo entrar en el islam?",
+    "intro": "Entrar en el islam implica afirmar los dos testimonios de fe con convicción e intención, comprender su significado y comenzar a aprender lo necesario.",
+    "note": "El sitio no convierte la entrada en el islam en un examen en línea."
+  },
+  "contact": {
+    "title": "Contacto",
+    "text": "Añade el medio oficial de contacto después de definir la entidad responsable."
+  },
+  "sources": [
+    {
+      "id": "azhar_aqida",
+      "name": "Al-Azhar — العقيدة وبناء الإنسان",
+      "url": "https://azhar.eg/scholars-tarajum/books/2023/4-%20%D8%A7%D9%84%D8%B9%D9%82%D9%8A%D8%AF%D8%A9%20%D9%88%D8%A8%D9%86%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_iman",
+      "name": "Al-Azhar — الإيمان بالكتب وأثره في سلوك الفرد والمجتمع",
+      "url": "https://azhar.eg/observer/%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA/%D9%85%D8%B7%D9%88%D9%8A%D8%A7%D8%AA/ArtMID/16135/ArticleID/92563",
+      "kind": "institutional"
+    },
+    {
+      "id": "azhar_bukhari",
+      "name": "Al-Azhar — صفوة صحيح البخاري",
+      "url": "https://azhar.eg/scholars-tarajum/books/2019/%D8%B5%D9%81%D9%88%D8%A9%20%D8%B5%D8%AD%D9%8A%D8%AD%201.pdf",
+      "kind": "institutional"
+    },
+    {
+      "id": "dar_ift",
+      "name": "Dar al-Ifta Egypt — حكم التقليد والتلفيق بين المذاهب الفقهية الأربعة",
+      "url": "https://www.dar-alifta.org/ar/fatwa/details/19043",
+      "kind": "institutional"
+    },
+    {
+      "id": "quran_api",
+      "name": "Quran Foundation — Content API",
+      "url": "https://api-docs.quran.com/docs/api-reference/",
+      "kind": "technical"
+    }
+  ],
+  "quality": {
+    "must_pass_before_publish": [
+      "Arabic source reviewed by qualified Islamic-studies reviewer",
+      "Each translation reviewed by a native speaker",
+      "Terminology checked against the shared glossary",
+      "Quran translation/tafsir license or authorization verified",
+      "Madhhab differences attributed when relevant",
+      "No automatic translation used as final copy",
+      "Accessibility and mobile tests pass",
+      "All external links/audio sources tested"
+    ]
+  }
+}
